@@ -1,6 +1,3 @@
-#Deployed Link
-- https://cryptonite-inky.vercel.app/
-
 # Cryptonite: Cryptocurrency Tracker
 
 Cryptonite is a web application built with Next.js that allows users to track and analyze various cryptocurrencies in real-time. This project was developed as part of the FRONT-END ASSIGNMENT REVIEW ROUND for GROWW.
@@ -71,3 +68,6 @@ This project is licensed under the [insert license type here] License - see the 
 ![image](https://github.com/user-attachments/assets/0904e1ee-521b-4fad-a4bb-74dfb19eb5e8)
 
 ![image](https://github.com/user-attachments/assets/661ac0a0-345f-44b0-8c72-db269fcf6ae4)
+
+# Deployed Link
+- https://cryptonite-inky.vercel.app/
