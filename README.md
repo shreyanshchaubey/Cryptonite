@@ -20,17 +20,15 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Sample Screenshot
+#![image](https://github.com/user-attachments/assets/966b7c6d-7266-49c1-82a6-ff7b9d9e4a6d)
 
-To learn more about Next.js, take a look at the following resources:
+#![image](https://github.com/user-attachments/assets/cde9289d-7a06-4964-82d5-96045bedd865)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#![image](https://github.com/user-attachments/assets/0904e1ee-521b-4fad-a4bb-74dfb19eb5e8)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+#![image](https://github.com/user-attachments/assets/661ac0a0-345f-44b0-8c72-db269fcf6ae4)
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+##Deployed Link
+- https://cryptonite-inky.vercel.app/
