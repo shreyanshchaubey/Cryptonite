@@ -1,0 +1,19 @@
+.search-input {
+    color: #333; /* Change this color to your desired text color */
+    background-color: #fff; /* Optional: change the background color */
+    border-color: #ddd; /* Optional: change the border color */
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    outline: none;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .search-input::placeholder {
+    color: #aaa; /* Optional: change the color of the placeholder text */
+  }
+  
+  .search-input:focus {
+    border-color: #007bff; /* Optional: change the border color on focus */
+    box-shadow: 0 0 0 2px rgba(38, 143, 255, 0.25); /* Optional: change the box shadow on focus */
+  }
+  
